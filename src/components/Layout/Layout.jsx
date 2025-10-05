@@ -1,4 +1,4 @@
-import modelImage from "../../assets/images/3Dmodel.png";
+//import modelImage from "../../assets/images/3Dmodel.png";
 import { useState } from "react";
 import SpaceAIChatbot from "./ChatBot";
 
@@ -39,11 +39,6 @@ function Layout() {
         {/* Hero Section */}
         <section className="relative text-center mb-20">
           {/* Background Image */}
-          <img
-  src={modelImage}
-  alt="Logo"
-  className="absolute inset-0 mx-auto h-[600px] w-auto object-contain opacity-30 -z-10"
-/>
 
           {/* Foreground Content */}
           <div className="relative z-10 mb-8">
