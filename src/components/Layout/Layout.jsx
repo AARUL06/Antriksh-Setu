@@ -1,4 +1,4 @@
-import modelImage from "./assets/images/3DModel.png";
+import modelImage from "../../assets/images/3Dmodel.png";
 import { useState } from "react";
 import SpaceAIChatbot from "./ChatBot";
 
